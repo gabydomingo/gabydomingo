@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hola! Soy Gabriel Domingo
 
-<!--
-**gabydomingo/gabydomingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante avanzado de Desarrollo de Software en UADE  
+🚀 Apasionado por la programación, el desarrollo web y el aprendizaje continuo  
+💻 Actualmente trabajando en un eCommerce con Next.js y TailwindCSS  
+📊 Realizando un curso de Data Analyst en Alura LATAM  
+📫 Contacto: domingogaby8@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: Python, Java, JavaScript, PHP, HTML5, CSS
+- **Bases de datos**: PostgreSQL, SQL Server
+- **Frameworks**: Next.js, TailwindCSS, Bootstrap
+- **Herramientas**: Git, GitHub, Figma, Linux, Cisco
+
+## 🧩 Proyectos Destacados
+
+- 🔧 [trabajo-final-progra1](https://github.com/gabydomingo/trabajo-final-progra1) – Proyecto final universitario con Python
+- 🕹️ [juego_numero_secreto](https://github.com/gabydomingo/juego_numero_secreto) – Juego en JavaScript y lógica básica
+- 🛒 PCZone – eCommerce con Next.js (repositorio privado o en progreso)
+
+---
+
+## 🌱 Siempre aprendiendo y en búsqueda de nuevos desafíos 🚀
