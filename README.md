@@ -17,7 +17,8 @@
 
 - 🔧 [trabajo-final-progra1](https://github.com/gabydomingo/trabajo-final-progra1) – Proyecto final universitario con Python
 - 🕹️ [juego_numero_secreto](https://github.com/gabydomingo/juego_numero_secreto) – Juego en JavaScript y lógica básica
-- 🛒 PCZone – eCommerce con Next.js - (https://github.com/pcZone-org/pczone-web)
+- 🛒 [PCZone](https://github.com/pcZone-org/pczone-web)– eCommerce con Next.js - (en proceso)
+- 🍜 [Kumo ramen](https://github.com/gabydomingo/kumoRamen) - 
 
 ---
 
