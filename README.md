@@ -5,6 +5,7 @@
 💻 Actualmente trabajando en un eCommerce con Next.js y TailwindCSS  
 📊 Realizando un curso de Data Analyst en Alura LATAM  
 📫 Contacto: domingogaby8@gmail.com
+💥 https://porfolio-neon-kappa.vercel.app/
 
 ## 🛠️ Tecnologías que manejo
 
