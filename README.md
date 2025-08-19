@@ -9,10 +9,10 @@
 
 ## 🛠️ Tecnologías que manejo
 
-- **Lenguajes**: Python, Java, JavaScript, PHP, HTML5, CSS
-- **Bases de datos**: PostgreSQL, SQL Server
-- **Frameworks**: Next.js, TailwindCSS, Bootstrap
-- **Herramientas**: Git, GitHub, Figma, Linux, Cisco
+- **Lenguajes**: Python, Java, JavaScript, PHP, HTML5, CSS, React, TailwindCSS
+- **Bases de datos**: PostgreSQL, SQL Server, Mongo DB
+- **Frameworks**: Next.js, Bootstrap
+- **Herramientas**: Git, GitHub, Figma, Linux, Cisco, Power Bi
 
 ## 🧩 Proyectos Destacados
 
