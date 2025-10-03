@@ -12,7 +12,7 @@
 - **Lenguajes**: Python, Java, JavaScript, PHP, HTML5, CSS, React, TailwindCSS
 - **Bases de datos**: PostgreSQL, SQL Server, Mongo DB
 - **Frameworks**: Next.js, Bootstrap
-- **Herramientas**: Git, GitHub, Figma, Linux, Cisco, Power Bi
+- **Herramientas**: Git, GitHub, Figma, Linux, Cisco, Looker studio
 
 ## 🧩 Proyectos Destacados
 
