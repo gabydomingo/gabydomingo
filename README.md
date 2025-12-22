@@ -16,6 +16,7 @@
 
 ## 🧩 Proyectos Destacados
 
+- 🚗 [Analisis y machine learning ausa](https://github.com/gabydomingo/CC-DD_Uade)- Analisis exploratorio de datos, y creacion de algoritmo de ML para autopistas de buenos aires
 - 🛒 [PCZone](https://github.com/pcZone-org/pczone-web)– eCommerce con Next.js - (en proceso)
 - 🍜 [Kumo ramen](https://github.com/gabydomingo/kumoRamen) -
 - 🕹️ [juego_numero_secreto](https://github.com/gabydomingo/juego_numero_secreto) – Juego en JavaScript y lógica básica
